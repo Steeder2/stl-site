@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^$ /stl/index.html [R=301,L]
+RewriteRule ^index\.html$ /stl/index.html [R=301,L]
